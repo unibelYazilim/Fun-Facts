@@ -1,0 +1,41 @@
+Sql injection zaafiyet açıklarını aşmak için yöntemler:
+- Client taraflı validasyonlar sql injection için her zaman işe yaramadığı belirtiliyor ancak yapılmasında fayda var. XSS saldırıları için Regular expression kullanılması gereklidir.
+
+        [RegularExpression(@"^[a-zA-Z0-9 -']*$", ErrorMessage = "Invalid characters detected")]
+        public string Name { get; set; }
+
+- Veritabanı kullanıcısının kısıtlı yetkiler ile tanımlı olması. Proje içinde erişim yetkisi olan db kullanıcısı için dbadmin yetkisi bulunmaması gereklidir.
+- ORM aracının kullanılması. (Entity Framework) 
+- Metodlara gelen parametreler içinde özel karakter analizinin yapılması gereklidir.
+- ORM aracı kullanmadan direk Sql yazılmaması.  Kod içinde SQL sorgusu yazılmaması gereklidir.
+- Stored procedure kullanımı. Proje içinde stored procedure kullanılmamalıdır.
+ 
+Kaynak : https://www.globaldots.com/resources/blog/8-best-practices-to-prevent-sql-injection-attacks/
+ 
+public class Protection
+    {
+        public string Protect(string Input)
+        {
+ 
+            string data = Input.Trim();
+            data = data.Replace("&gt;", "");
+            data = data.Replace("&lt;", "");
+            data = data.Replace(">", "");
+            data = data.Replace("<", "");
+            data = data.Replace("--", "");
+            data = data.Replace("'", "");
+            data = data.Replace(";", "");
+            data = data.Replace("=", "");
+            data = data.Replace("char ", "");
+            data = data.Replace("delete ", "");
+            data = data.Replace("insert ", "");
+            data = data.Replace("update ", "");
+            data = data.Replace("select ", "");
+            data = data.Replace("truncate ", "");
+            data = data.Replace("union", "");
+            data = data.Replace("script", "");
+            data = data.Replace("waitfor", "");
+            data = data.Replace("delay ", ""); 
+            return data;
+        }
+        
