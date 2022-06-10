@@ -1,0 +1,16 @@
+https://tr.reactjs.org/tutorial/tutorial.html
+https://dev.to/sakhnyuk/300-react-interview-questions-2ko4
+https://www.hostinger.web.tr/rehberler/react-nedir/
+https://www.youtube.com/watch?v=WDpxqopXd9U
+https://www.coursera.org/learn/front-end-react
+https://www.geeksforgeeks.org/react-js-introduction-working/
+http://www.firatipek.com/entry/22#:~:text=React%20Component%20(React%20Bile%C5%9Feni),fonksiyon%20component%20ve%20class%20componentt%C4%B1r
+https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications#introduction
+https://www.digitalocean.com/community/tutorials/react-axios-react
+
+
+
+//videolar
+https://www.youtube.com/watch?v=aTPkos3LKi8
+https://www.youtube.com/watch?v=4y2FFEmPW7I
+

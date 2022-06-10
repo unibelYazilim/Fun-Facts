@@ -1,0 +1,7 @@
+https://www.yusufsezer.com.tr/webpack/
+https://qastack.info.tr/programming/35062852/npm-vs-bower-vs-browserify-vs-gulp-vs-grunt-vs-webpack
+https://devnot.com/2021/webpack-nedir-webpacke-detayli-bir-bakis/
+https://ceaksan.com/tr/webpack-nedir
+https://ysoftaoglu.com/post/webpack-nedir-ve-nasil-kullanilir/
+https://serhatsait.medium.com/webpack-nedir-kurulumu-ve-kullan%C4%B1m%C4%B1-nas%C4%B1ld%C4%B1r-d75b013411a7
+https://www.youtube.com/watch?v=WDpxqopXd9U
