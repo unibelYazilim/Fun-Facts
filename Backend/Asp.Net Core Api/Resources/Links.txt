@@ -1,2 +1,5 @@
 Domain Driven Design Hakkında Kapsamlı Araştırma
 https://www.gencayyildiz.com/blog/domain-driven-design-stratejik-ve-taktiksel-olarak-derinlemesine-inceleme/
+
+Ocelot-Docker-Microservice
+https://medium.com/aspnetrun/building-ocelot-api-gateway-microservices-with-asp-net-core-and-docker-container-13f96026e86c
