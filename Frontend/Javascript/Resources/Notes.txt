@@ -1,0 +1,8 @@
+//açılan sayfanın belirtilen süre sonrası için başka bir sayfaya yönlendirilmesi
+
+<script>
+        setTimeout(function () {
+            window.location.href = 'http://127.0.0.1:5500/index.html';
+        }, 10000);
+</script>
+

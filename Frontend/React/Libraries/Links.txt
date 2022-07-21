@@ -7,6 +7,9 @@ https://www.geeksforgeeks.org/react-js-introduction-working/
 http://www.firatipek.com/entry/22#:~:text=React%20Component%20(React%20Bile%C5%9Feni),fonksiyon%20component%20ve%20class%20componentt%C4%B1r
 https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications#introduction
 https://www.digitalocean.com/community/tutorials/react-axios-react
+https://app.pluralsight.com/course-player?clipId=b3d485fa-d74e-4ce0-8b6b-4632fe6abcc1
+https://jscomplete.com/learn/why-react
+
 
 
 
