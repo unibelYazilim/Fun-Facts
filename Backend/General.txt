@@ -1,2 +1,5 @@
 IdentityServer4 Docs
 https://identityserver4.readthedocs.io/
+
+Best Practices
+https://code-maze.com/aspnetcore-webapi-best-practices/
