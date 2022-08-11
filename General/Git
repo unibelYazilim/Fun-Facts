@@ -11,3 +11,7 @@ git push -u origin main
 git remote add origin https://github.com/.../XUnitTest.git
 git branch -M main
 git push -u origin main
+
+
+--Git Uzak Depo Komut
+https://www.yusufsezer.com.tr/git-uzak-depo-komutlari/
