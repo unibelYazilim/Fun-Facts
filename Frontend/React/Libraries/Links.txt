@@ -9,6 +9,7 @@ https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication
 https://www.digitalocean.com/community/tutorials/react-axios-react
 https://app.pluralsight.com/course-player?clipId=b3d485fa-d74e-4ce0-8b6b-4632fe6abcc1
 https://jscomplete.com/learn/why-react
+https://github.com/reactdersleri/react-yazi-yorum-frontend
 
 
 
