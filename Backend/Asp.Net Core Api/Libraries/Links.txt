@@ -1,0 +1,2 @@
+MassTransit
+https://code-maze.com/masstransit-rabbitmq-aspnetcore/

@@ -1,0 +1,2 @@
+https://www.learnentityframeworkcore.com/
+https://www.entityframeworktutorial.net/
