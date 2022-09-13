@@ -10,6 +10,10 @@ https://www.digitalocean.com/community/tutorials/react-axios-react
 https://app.pluralsight.com/course-player?clipId=b3d485fa-d74e-4ce0-8b6b-4632fe6abcc1
 https://jscomplete.com/learn/why-react
 https://github.com/reactdersleri/react-yazi-yorum-frontend
+https://omergulcicek.github.io/react/gelismis-kilavuzlar/react-hook.html#:~:text=Hooklar%2C%20bir%20class%20yazmadan%20state,veren%20yeni%20bir%20%C3%B6zellik%20%C3%B6nerisidir.
+https://infinum.com/handbook/frontend/react/project-structure
+https://ysoftaoglu.com/post/styled-components-nedir/
+
 
 
 
