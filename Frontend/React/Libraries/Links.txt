@@ -13,6 +13,7 @@ https://github.com/reactdersleri/react-yazi-yorum-frontend
 https://omergulcicek.github.io/react/gelismis-kilavuzlar/react-hook.html#:~:text=Hooklar%2C%20bir%20class%20yazmadan%20state,veren%20yeni%20bir%20%C3%B6zellik%20%C3%B6nerisidir.
 https://infinum.com/handbook/frontend/react/project-structure
 https://ysoftaoglu.com/post/styled-components-nedir/
+https://medium.com/@ahmetcangmrkc/react-i%C3%A7inde-link-ve-a-href-fark%C4%B1-eb2ba29160e2
 
 
 
