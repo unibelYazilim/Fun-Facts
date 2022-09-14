@@ -14,6 +14,7 @@ https://omergulcicek.github.io/react/gelismis-kilavuzlar/react-hook.html#:~:text
 https://infinum.com/handbook/frontend/react/project-structure
 https://ysoftaoglu.com/post/styled-components-nedir/
 https://medium.com/@ahmetcangmrkc/react-i%C3%A7inde-link-ve-a-href-fark%C4%B1-eb2ba29160e2
+https://www.xenonstack.com/insights/reactjs-project-structure
 
 
 
