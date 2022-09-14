@@ -1,0 +1,1 @@
+Styled Components kısaca javascript dosyalarınızda css yazmasınızı sağlayan, csslerinizi direkt olarak componentlara bağlayabilen ve react props ile dinamik css yazmanızı sağlayan bir kütüphanedir. 
