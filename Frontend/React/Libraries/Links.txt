@@ -15,6 +15,7 @@ https://infinum.com/handbook/frontend/react/project-structure
 https://ysoftaoglu.com/post/styled-components-nedir/
 https://medium.com/@ahmetcangmrkc/react-i%C3%A7inde-link-ve-a-href-fark%C4%B1-eb2ba29160e2
 https://www.xenonstack.com/insights/reactjs-project-structure
+https://ceaksan.com/tr/middleware-nedir-ne-ise-yarar#:~:text=Middleware%20(Ara%20Uygulama),ileti%C5%9Fim%20ve%20veri%20y%C3%B6netimini%20sa%C4%9Flayabilirler.
 
 
 
