@@ -21,6 +21,8 @@ https://mustafaonurtasdemirr.medium.com/middleware-nedir-ecdef1409fa
 https://www.youtube.com/watch?v=SLfhMt5OUPI
 https://medium.com/frontend-development-with-js/hooks-usestate-nedir-9b7ae42a6895
 https://medium.com/kodcular/reactjs-state-nedir-class-componentlerinde-nas%C4%B1l-kullan%C4%B1l%C4%B1r-68694a9e0173
+https://www.youtube.com/watch?v=b9eMGE7QtTk
+
 
 
 
