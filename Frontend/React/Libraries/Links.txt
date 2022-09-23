@@ -23,6 +23,7 @@ https://medium.com/frontend-development-with-js/hooks-usestate-nedir-9b7ae42a689
 https://medium.com/kodcular/reactjs-state-nedir-class-componentlerinde-nas%C4%B1l-kullan%C4%B1l%C4%B1r-68694a9e0173
 https://www.youtube.com/watch?v=b9eMGE7QtTk
 https://www.freecodecamp.org/news/the-react-cheatsheet/
+https://www.lcg.ufrj.br/nodejs/books/react-beginners-handbook.pdf
 
 
 
