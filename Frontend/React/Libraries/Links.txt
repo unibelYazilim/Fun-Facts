@@ -24,7 +24,7 @@ https://medium.com/kodcular/reactjs-state-nedir-class-componentlerinde-nas%C4%B1
 https://www.youtube.com/watch?v=b9eMGE7QtTk
 https://www.freecodecamp.org/news/the-react-cheatsheet/
 https://www.lcg.ufrj.br/nodejs/books/react-beginners-handbook.pdf
-
+https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0
 
 
 
