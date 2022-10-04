@@ -26,6 +26,8 @@ https://www.freecodecamp.org/news/the-react-cheatsheet/
 https://www.lcg.ufrj.br/nodejs/books/react-beginners-handbook.pdf
 https://medium.com/kocsistem/a-dan-z-ye-react-facce30533d0
 https://tsafaelmali.medium.com/react-memoization-nedir-reactta-nasıl-kullanılır-453035a3630f
+https://react-hook-form.com/get-started
+
 
 
 
