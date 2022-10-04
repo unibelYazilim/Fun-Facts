@@ -4,3 +4,7 @@ https://github.com/googlearchive/js-marker-clusterer
 //fetch api
 https://app.patika.dev/courses/javascript/fetch-api-ile-calismak#:~:text=Fetch%20API%20%2C%20kaynaklar%C4%B1%20(a%C4%9F%20genelinde,ES6%20ile%20gelen%20bir%20%C3%B6zelliktir.
 https://tr.javascript.info/bind
+
+//scrollla hareket
+https://webdesign.tutsplus.com/tutorials/animate-on-scroll-with-javascript--cms-36671
+
