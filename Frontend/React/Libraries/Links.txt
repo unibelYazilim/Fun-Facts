@@ -31,6 +31,7 @@ https://react-hook-form.com/get-started
 
 //chakra ui
 https://medium.com/frontend-development-with-js/b%C3%BCy%C3%BCk-projelerde-%C3%B6l%C3%A7eklenebilir-styling-i%C3%A7in-sass-jss-veya-tailwindcss-5de937f8ba2f
+https://app.patika.dev/courses/react/ecommerce-chakra-ui
 
 
 
