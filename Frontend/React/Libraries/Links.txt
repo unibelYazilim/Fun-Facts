@@ -33,6 +33,8 @@ https://react-hook-form.com/get-started
 https://medium.com/frontend-development-with-js/b%C3%BCy%C3%BCk-projelerde-%C3%B6l%C3%A7eklenebilir-styling-i%C3%A7in-sass-jss-veya-tailwindcss-5de937f8ba2f
 https://app.patika.dev/courses/react/ecommerce-chakra-ui
 
+//formik
+https://engineering.cimri.com/formik-yup-ile-react-form-y%C3%B6netimi-1cb26168378f
 
 
 
