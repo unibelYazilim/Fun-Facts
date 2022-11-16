@@ -5,3 +5,5 @@ Tasarım desenleri https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kay
 Gitignore dosyası oluşturma https://www.toptal.com/developers/gitignore
 
 algoritma geliştirme https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/
+
+restful api hk. : https://erdincuzun.com/node-js/4-2-restful-api/#:~:text=RESTful%20Web%20Servisleri&text=%C3%87e%C5%9Fitli%20programlama%20dillerinde%20yaz%C4%B1lm%C4%B1%C5%9F%20ve,veri%20al%C4%B1%C5%9Fveri%C5%9Fi%20yapmak%20i%C3%A7in%20kullan%C4%B1labilir.
